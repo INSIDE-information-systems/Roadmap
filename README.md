@@ -7,6 +7,6 @@ Each item INSIDE considers corresponds to a GitHub issue. Each issue is then tag
 
 Then GitHub projects have been set up to provide different Views on those issue
 - Maturity view: https://github.com/INSIDE-information-systems/Roadmap/projects/1
-- RoadMap - like Roadmap 2022 : https://github.com/INSIDE-information-systems/Roadmap/projects/2
+- RoadMap - like Roadmap 2022 : https://github.com/INSIDE-information-systems/Roadmap/projects/4
 
 ![TRL Scale overview](https://upload.wikimedia.org/wikipedia/commons/4/4b/NASA_TRL_Meter.png)
